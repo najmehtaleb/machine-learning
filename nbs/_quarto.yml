@@ -18,9 +18,10 @@ website:
     left:
       - text: Home
         href: https://najmehtaleb.github.io/my-site/
+        
     right:
       - icon: github
-        href: https://github.com/najmehtaleb/math-for-ml-dl
+        href: https://github.com/najmehtaleb/machine-learning
       - icon: twitter
         href: https://twitter.com/NajmehTaleb
     
@@ -33,7 +34,6 @@ website:
     - section: Quick Start
       contents: 
       - quick-start/intro.ipynb
-
-
+      
 
 metadata-files: [nbdev.yml]
