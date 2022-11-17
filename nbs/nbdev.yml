@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "machine-learning"
+  site-url: "https://najmehtaleb.github.io/machine-learning"
+  description: "Machine Learning"
+  repo-branch: main
+  repo-url: "https://github.com/najmehtaleb/machine-learning"
