@@ -4,5 +4,5 @@ website:
       - index.ipynb
       - section: quick-start
         contents:
+          - quick-start/datasets.ipynb
           - quick-start/intro.ipynb
-          - quick-start/quick-start.ipynb
