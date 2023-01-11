@@ -6,3 +6,4 @@ website:
         contents:
           - quick-start/datasets.ipynb
           - quick-start/intro.ipynb
+          - quick-start/steps.ipynb
