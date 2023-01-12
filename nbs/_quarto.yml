@@ -39,10 +39,19 @@ website:
       - 01-ml-ecosystem/panda.ipynb
       - 01-ml-ecosystem/matplotlib.ipynb
       - 01-ml-ecosystem/datasets.ipynb
+      
     - section: End-to-End Machine Learning Process
       contents: 
       - 02-end-to-end/intro.ipynb
       - 02-end-to-end/steps.ipynb
+    
+    - section: Data Preparation
+      contents: 
+      - 03-data-preparation/data-cleaning.ipynb
+      - 03-data-preparation/data-leakage.ipynb
+      - 03-data-preparation/data-transforms.ipynb
+      - 03-data-preparation/dimensionality-reduction.ipynb
+      - 03-data-preparation/feature-selection.ipynb
       
      
 
