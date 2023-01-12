@@ -53,6 +53,10 @@ website:
       - 03-data-preparation/data-transforms.ipynb
       - 03-data-preparation/dimensionality-reduction.ipynb
       
+   - section: Ensemble Learning Algorithms
+      contents: 
+      - 04-ensemble-learning/intro.ipynb
+      
    - section: XGboost
       contents: 
       - 05-xgboost/xgboost.ipynb
