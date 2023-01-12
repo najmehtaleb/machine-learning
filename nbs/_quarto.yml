@@ -65,6 +65,11 @@ website:
       contents: 
       - 05-xgboost/xgboost.ipynb
       
+    - section: Imbalanced Classification
+      contents: 
+      - 06-imbalanced-classification/foundation.ipynb
+      - 06-imbalanced-classification/evaluation.ipynb
+      
       
      
 
