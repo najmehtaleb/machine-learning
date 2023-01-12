@@ -31,11 +31,16 @@ website:
     search: true
     collapse-level: 1
     contents:
-    - section: Quick Start
+    - section: Python Machine Learning Ecosystem
       contents: 
-      - quick-start/intro.ipynb
-      - quick-start/steps.ipynb
-      - quick-start/datasets.ipynb
+      - 00-ml-ecosystem/intro.ipynb
+      - 00-ml-ecosystem/numpy.ipynb
+      - 00-ml-ecosystem/panda.ipynb
+      - 00-ml-ecosystem/matplotlib.ipynb
+    - section: End-to-End Machine Learning Process
+      contents: 
+      - 01-end-to-end/intro.ipynb
+      - 01-end-to-end/steps.ipynb
       
 
 metadata-files: [nbdev.yml]
