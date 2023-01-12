@@ -33,14 +33,14 @@ website:
     contents:
     - section: Python Machine Learning Ecosystem
       contents: 
-      - 00-ml-ecosystem/intro.ipynb
-      - 00-ml-ecosystem/numpy.ipynb
-      - 00-ml-ecosystem/panda.ipynb
-      - 00-ml-ecosystem/matplotlib.ipynb
+      - 01-ml-ecosystem/intro.ipynb
+      - 01-ml-ecosystem/numpy.ipynb
+      - 01-ml-ecosystem/panda.ipynb
+      - 01-ml-ecosystem/matplotlib.ipynb
     - section: End-to-End Machine Learning Process
       contents: 
-      - 01-end-to-end/intro.ipynb
-      - 01-end-to-end/steps.ipynb
+      - 02-end-to-end/intro.ipynb
+      - 02-end-to-end/steps.ipynb
       
 
 metadata-files: [nbdev.yml]
