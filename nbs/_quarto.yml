@@ -57,7 +57,7 @@ website:
       contents: 
       - 03-data-preparation/intro.ipynb
       
-   - section: XGboost
+    - section: XGboost
       contents: 
       - 05-xgboost/xgboost.ipynb
       
