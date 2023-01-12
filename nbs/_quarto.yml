@@ -59,6 +59,7 @@ website:
       - 04-ensemble-learning/multiple-models.ipynb
       - 04-ensemble-learning/bagging.ipynb
       - 04-ensemble-learning/boosting.ipynb
+      - 04-ensemble-learning/stacking.ipynb
       
     - section: XGboost
       contents: 
