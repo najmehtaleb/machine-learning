@@ -41,6 +41,15 @@ website:
       contents: 
       - 02-end-to-end/intro.ipynb
       - 02-end-to-end/steps.ipynb
-      
+    - section: Data Preparation
+      contents: 
+      - 03-data-preparation/data-cleaning.ipynb
+      - 03-data-preparation/data-leakage.ipynb
+      - 03-data-preparation/data-transforms.ipynb
+      - 03-data-preparation/dimensionality-reduction.ipynb
+      - 03-data-preparation/feature-selection.ipynb
+    - section: XGboost
+      contents: 
+      - 05-xgboost/xgboost.ipynb      
 
 metadata-files: [nbdev.yml]
