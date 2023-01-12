@@ -55,7 +55,9 @@ website:
     
     - section: Ensemble Learning Algorithms
       contents: 
-      - 03-data-preparation/intro.ipynb
+      - 04-ensemble-learning/intro.ipynb
+      - 04-ensemble-learning/multiple-models.ipynb
+      - 04-ensemble-learning/bagging.ipynb
       
     - section: XGboost
       contents: 
